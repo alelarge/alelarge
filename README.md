@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-Je suis une développeuse web passionée a la recherche d'une alternance !
+Développeuse fullstack JavaScript/Python. Particulièrement soucieuse de livrer un code propre et testé.
+
+## Mes livres favoris
+- Coder Proprement, de Robert C. Martin
+- Proprement codeur : code de conduite pour développeurs professionnels, de Robert C. Martin
+- Software Craft TDD, Clean Code et autres pratiques essentielles, de Cyrille Martraire, Arnaud Thiéfaine, Dorra Bartaguiz, Fabien Hiegel, Houssam Fakih
+
+Ces lectures m'ont beaucoup apportée, tant sur la qualité du code (bien nommer ses classes, refactoring) les bonnes pratiques, du TDD, BDD et les techniques de collaboration pair programming...
+
 
 ## Restons en contact
 
@@ -10,6 +18,7 @@ Je suis une développeuse web passionée a la recherche d'une alternance !
 
 ## Ma stack technique
 
+<img align="left" alt="Node.js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white" />
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
