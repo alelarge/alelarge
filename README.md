@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Développeuse fullstack JavaScript/Python. Particulièrement soucieuse de livrer un code propre et testé.
+Développeuse fullstack JavaScript/Kotlin. Particulièrement soucieuse de livrer un code propre et testé.
 
 ## Mes livres favoris
 - Coder Proprement, de Robert C. Martin
