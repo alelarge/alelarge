@@ -18,7 +18,6 @@ Ces lectures m'ont beaucoup apportée, tant sur la qualité du code (bien nommer
 
 ## Ma stack technique
 
-<img align="left" alt="Node.js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white" />
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
@@ -26,6 +25,7 @@ Ces lectures m'ont beaucoup apportée, tant sur la qualité du code (bien nommer
 <img alt="medium" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ## Projets
+- OhMyFood : [Présentation](https://armellelelarge.com/project/ohmyfood-project) | [Demo](https://armellelelarge.com/sub_pages/ohmyfood/) | [GitHub](https://github.com/alelarge/Lelarge_3_03_01_2021)
 - Kanap : [Présentation](https://armellelelarge.com/project/kanap-project) | [Demo](https://armellelelarge.com/sub_pages/kanap/html/) | [GitHub](https://github.com/alelarge/P5-Lelarge-Armelle-Kanap)
 - Piiquante : [Présentation](https://armellelelarge.com/project/piiquante-project) | [GitHub](https://github.com/alelarge/piiquante)
 - Reservia : [Présentation](https://armellelelarge.com/project/reservia-project) | [Demo](https://armellelelarge.com/sub_pages/reservia/) | [GitHub](https://github.com/alelarge/Transformez-une-maquette-en-site-web)
